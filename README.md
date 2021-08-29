@@ -12,11 +12,17 @@ pip install beautifulsoup4
 
 {
     "Flag_link": "https://en.wikipedia.org//wiki/Flag_of_India",
-    "capital": "New Delhi", 
+    
+    "capital": "New Delhi",
+    
     "largest_city": "Mumbai",
+    
     "official_languages": ["Hindi","English"],
+    
     "area_total ": "3,287,263",
+    
     "Population": " 1,352,642,280",
+    
     "GDP_nominal": "$3.050 trillion"
 }
 
